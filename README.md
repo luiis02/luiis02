@@ -6,7 +6,7 @@
 <Br>
 <h1>Sobre mi! 😎</h1>
 
-- 🏫: Soy estudiante de 4 año en el grado de ingeniería informáticaa.
+- 🏫: Soy estudiante de 4 año en el grado de ingeniería informática en la Universidad de Granada (UGR).
 - 🔭: Me encuentro en el desarrollo de varios projectos en distintos campos.
 - 🌱: Actualmente curso la mención en sistemas de información. 🧠💻🤖
 - 🤔: En un futuro me gustaría aprender lenguaje COBOL 😅
