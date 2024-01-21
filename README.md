@@ -38,9 +38,9 @@
 <h1>Herramientas que uso! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=GitHub&logoColor=white)|![](https://img.shields.io/badge/PHP-F7931E?style=for-the-badge&logo=PHP&logoColor=white)|![](https://img.shields.io/badge/MySQL-D00000?style=for-the-badge&logo=MySQL&logoColor=white)|![](https://img.shields.io/badge/C++?&style=for-the-badge&logo=C++&logoColor=white)|
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/GitHub-FF6F00?style=for-the-badge&logo=GitHub&logoColor=white)|![](https://img.shields.io/badge/PHP-F7931E?style=for-the-badge&logo=PHP&logoColor=white)|![](https://img.shields.io/badge/MySQL-D00000?style=for-the-badge&logo=MySQL&logoColor=white)|![](https://img.shields.io/badge/C%20C++?&style=for-the-badge&logo=C&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/JavaScript-342B029.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/JavaScript-342B029.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Google%20Cloud-2C2D72?style=for-the-badge&logo=Google&logoColor=white)|![](https://img.shields.io/badge/Linux-777BB4?style=for-the-badge&logo=Linux&logoColor=white)|![](https://img.shields.io/badge/HTML5%20CSS-239120?style=for-the-badge&logo=HTML5&logoColor=white)|![](https://img.shields.io/badge/Y%20Más!-yellow?style=for-the-badge)|
   
 
 <Br>
