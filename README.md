@@ -18,7 +18,8 @@
 <h1 align="center">Buscame en! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/luisalcaldegarcia/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:luisalcaldegarcia.02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://luisalcalde.netlify.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fsitio-web_8743996&psig=AOvVaw3Ku7H_90MHt_FsWITFfY-E&ust=1705946460014000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi8__iH74MDFQAAAAAdAAAAABAD" /></a>
+<a href="https://www.linkedin.com/in/luisalcaldegarcia/" target="blank"><img align="center" src="https://img.shields.io/badge/Luis Alcalde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:luisalcaldegarcia.02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/luisalcaldegarcia.02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://luisalcalde.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Mi%20portafolio-D14836?style=for-the-badge&logo=HTML5&logoColor=white&color=black
+" /></a>
 </p>
   
 <Br>
