@@ -27,9 +27,9 @@
 <h1 align="center">Algunas de mis habilidades!🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Algoritmos-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/BD%20relacionades-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/S.%20O.-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)||
+|![](https://img.shields.io/badge/Algoritmos-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/BD%20relacionades-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Sist.%20Operativos.-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)||
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/WEB-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Y%20Más!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/WEB-blue?style=for-the-badge)|![](https://img.shields.io/badge/Análisis%20de%20datos-blue?style=for-the-badge)|![](https://img.shields.io/badge/Servicios%20Cloud-blue?style=for-the-badge)|![](https://img.shields.io/badge/Gestion%20BD%20Oracle-blue?style=for-the-badge)|![](https://img.shields.io/badge/Y%20Más!-yellow?style=for-the-badge)|
   
   
 <Br>
