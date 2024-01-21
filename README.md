@@ -46,10 +46,10 @@
 <Br>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1>Algunos de mis projectos! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=cines_olivia)](https://github.com/luiis02/cines_olivia)
 
 <Br>
 <hr>
