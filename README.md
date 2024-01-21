@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Soy <a href="https://github.com/luiis02">Luis ALcalde<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Soy <a href="https://github.com/luiis02">Luis Alcalde<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Sobre mi! 😎</h1>
 
@@ -50,6 +50,7 @@
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=cines_olivia)](https://github.com/luiis02/cines_olivia)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=portfolio)](https://github.com/luiis02/portfolio)
 
 <Br>
 <hr>
