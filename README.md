@@ -77,15 +77,12 @@
 <Br>
 <hr>
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1>Eso es todo... Por ahora!🕖​</h1>
 <Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
+ 
   
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1>Muchas gracias! 🤵 </h1>
 <Br>
