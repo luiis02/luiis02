@@ -18,8 +18,7 @@
 <h1 align="center">Buscame en! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/luisalcaldegarcia/" target="blank"><img align="center" src="https://img.shields.io/badge/Luis Alcalde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:luisalcaldegarcia.02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/luisalcaldegarcia.02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://luisalcalde.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Mi%20portafolio-D14836?style=for-the-badge&logo=HTML5&logoColor=white&color=black
-" /></a>
+<a href="https://www.linkedin.com/in/luisalcaldegarcia/" target="blank"><img align="center" src="https://img.shields.io/badge/Luis Alcalde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:luisalcaldegarcia.02@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/luisalcaldegarcia.02@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://luisalcalde.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Mi%20portafolio-D14836?style=for-the-badge&logo=HTML5&logoColor=white&color=black" /></a>
 </p>
   
 <Br>
