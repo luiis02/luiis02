@@ -51,6 +51,7 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=cines_olivia)](https://github.com/luiis02/cines_olivia)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=portfolio)](https://github.com/luiis02/portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=luiis02&repo=MUSIC-RECOMEDATION-SYSTEM)](https://github.com/luiis02/MUSIC-RECOMEDATION-SYSTEM)
 
 <Br>
 <hr>
