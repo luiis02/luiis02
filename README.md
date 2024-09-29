@@ -6,9 +6,9 @@
 <Br>
 <h1>Sobre mi! 😎</h1>
 
-- 🏫: Soy estudiante de 4 año en el grado de Ingeniería Informática en la Universidad de Granada (UGR).
+- 🏫: Soy Full Stack Enginier en UST Global, desarrollando soluciones software.
 - 🔭: Me encuentro en el desarrollo de varios projectos en distintos campos.
-- 🌱: Actualmente curso la mención en sistemas de información. 🧠💻🤖
+- 🌱: Actualmente me preparo para lograr un puesto como DEVOPS. 🧠💻🤖
 - 🤔: En un futuro me gustaría aprender lenguaje COBOL 😅
 - 💬: Tratare de ayudarte con temas de bases de datos y lenguajes web. 📊📈🤖🧠
 - ⚡  Datos curiosos: Me encanta el padel, el tenis y el fútbol. ⚽🎾
